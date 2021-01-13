@@ -1,0 +1,142 @@
+body{
+    background-image: url("https://img.etimg.com/thumb/width-500,height-600,imgsize-805980,resizemode-1,msid-75890567/magazines/panache/most-people-proud-how-india-managed-coronavirus-crisis-place-country-at-3rd-spot-among-23-nations.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #ffeaa0;
+    height: 100%;
+
+    background-repeat: no-repeat;
+}
+
+body>p{
+    padding-top: 2em;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+}
+
+
+
+h2{
+    text-align: center;
+    padding-top: 1em;
+    font-size: 3em;
+    text-shadow: 1px 1px red;
+}
+
+h3{
+    text-shadow: 1px 1px green;
+    font-size: 20px;
+}
+
+
+
+.cases{
+    list-style: none; display: flex; flex-direction: row; justify-content: center;
+    margin-left: 6em;
+    margin-right: 2em;
+    text-shadow: 1px 1px black;
+
+
+}
+.cases>div>h3 {
+    padding: 2em 5em;
+    margin-right: 2em;
+    margin-left: 2em;
+
+}
+.cases>div{
+    text-align: center;
+    text-shadow: 1px 1px black;
+
+}
+.cases{
+    position: relative;
+    background: rgba(255,255,255,.2);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+
+
+
+.recovered{
+    list-style: none; display: flex; flex-direction: row; justify-content: center;
+    margin-left: 6em;
+    margin-right: 2em;
+    text-shadow: 1px 1px black;
+
+}
+.recovered>div>h3{
+    padding: 2em 5em;
+    margin-right: -2em;
+    margin-left: 2em;
+}
+.recovered>div{
+    text-align: center;
+    text-shadow: 1px 1px black;
+
+}
+.recovered{
+    position: relative;
+    background: rgba(255,255,255,.2);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+
+
+.active{
+    list-style: none; display: flex; flex-direction: row; justify-content: center;
+    margin-left: 5em;
+    margin-right: 2em;
+    text-shadow: 1px 1px black;
+
+}
+.active>div>h3{
+    padding: 2em 5em;
+    margin-right: 6em;
+    margin-left: 6em;
+}
+.active>div{
+    text-align: center;
+    text-shadow: 1px 1px black;
+
+}
+.active{
+    position: relative;
+    background: rgba(255,255,255,.2);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+
+
+
+.death{
+    list-style: none; display: flex; flex-direction: row; justify-content: center;
+    margin-left: 5em;
+    margin-right: 2em;
+    text-shadow: 1px 1px black;
+
+}
+.death>div>h3{
+    padding: 2em 5em;
+    margin-left: 6em;
+    margin-right: 6em;
+}
+.death>div{
+    text-align: center;
+    text-shadow: 1px 1px black;
+
+}
+.death{
+    position: relative;
+    background: rgba(255,255,255,.2);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+
+
